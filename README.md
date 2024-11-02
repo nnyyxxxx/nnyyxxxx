@@ -9,7 +9,7 @@
 
 ![](https://skillicons.dev/icons?i=js,rust,c,cs,java,python,bash&theme=dark&perline=7)
 
-## Stats
+### Stats
 
 <div align="center">
 
