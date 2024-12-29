@@ -1,7 +1,9 @@
-### Languages i am proficient in:
+## Languages i am proficient in
 
 - js
 - rust
+- zig
+- c++
 - c
 - c#
 - java (some)
