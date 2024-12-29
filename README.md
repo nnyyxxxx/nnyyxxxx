@@ -6,7 +6,7 @@
 - c++
 - c
 - c#
-- java (some)
+- java
 - scala
 - elixir
 - dart
