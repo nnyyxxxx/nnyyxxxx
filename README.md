@@ -12,5 +12,7 @@
 - dart
 - py
 - shell (scripting)
+- lua
+- x86-64 assembly (some)
 
-![](https://skillicons.dev/icons?i=js,rust,zig,cpp,c,cs,java,scala,elixir,dart,python,bash&theme=dark&perline=6)
+![](https://skillicons.dev/icons?i=js,rust,zig,cpp,c,cs,java,scala,elixir,dart,python,bash,asm&theme=dark&perline=6)
