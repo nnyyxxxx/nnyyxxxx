@@ -1,4 +1,4 @@
-## Languages i am proficient in
+## Languages I am proficient in
 
 - js
 - rust
@@ -7,6 +7,9 @@
 - c
 - c#
 - java (some)
+- scala
+- elixir
+- dart
 - py
 - shell (scripting)
 
