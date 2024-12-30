@@ -1,18 +1,48 @@
-## Languages I am proficient in
+<img align="left" src=".github/astolfo.png" height="200" width="200">
 
-- js
-- rust
-- zig
-- c++
-- c
-- c#
-- java
-- scala
-- elixir
-- dart
-- py
-- shell (scripting)
-- lua
-- x86-64 assembly (some)
+### Nyaa~ Welcome to my profile! (｡♥‿♥｡)
 
-![](https://skillicons.dev/icons?i=js,rust,zig,cpp,c,cs,java,scala,elixir,dart,python,bash,lua&theme=dark&perline=6)
+I'm **nnyyxxxx**, a programmer with love for Rust and Zig! 🦀
+
+[![views](https://komarev.com/ghpvc/?username=nnyyxxxx&style=flat&color=ff69b4&label=views&abbreviated=true)](https://github.com/nnyyxxxx)
+
+<br clear="all">
+
+### 🎀 Tech Stack
+
+**Systems & Low-level**
+- Rust 🦀
+- Zig ⚡
+- C/C++ 
+- x86-64 Assembly
+
+**High-level & Scripting**
+- JavaScript
+- Python
+- Java/Scala
+- C#
+- Elixir
+- Dart
+- Shell
+- Lua
+
+### 🌸 Current Focus
+
+- Making TUIs
+- Learning more ASM
+- Contributing to open source projects
+
+
+<div align="center">
+
+*"Why don't I go to parties? Too many mutable references!" ~nnyyxxxx*
+
+</div>
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30">
+
+<div align="center">
+
+*Feel free to explore my repositories and don't forget to headpat your compiler! (｡>ω<｡)*
+
+</div>
