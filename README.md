@@ -32,6 +32,11 @@ I'm **nnyyxxxx**, a programmer with love for Rust and Zig! 🦀
 - Learning more ASM
 - Contributing to open source projects
 
+### 💝 Sponsors
+
+- [adamperkowski](https://github.com/adamperkowski) - Thank you for your support! (ﾉ◕ヮ◕)ﾉ*:･ﾟ✧
+
+<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30">
 
 <div align="center">
 
