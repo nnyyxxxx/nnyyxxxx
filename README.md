@@ -4,7 +4,7 @@
 
 I'm **nnyyxxxx**, a programmer with love for Rust and Zig! 🦀
 
-[![views](https://komarev.com/ghpvc/?username=nnyyxxxx&style=flat&color=ff69b4&label=views&abbreviated=true)](https://github.com/nnyyxxxx)
+[![views](https://komarev.com/ghpvc/?username=nnyyxxxx&style=flat&color=ff69b4&label=views&abbreviated=true)](https://github.com/nnyyxxxx) [![pgp](https://img.shields.io/badge/pgp-0x1B31F44F861ED3ED265A71016038FFD6589902CB-313131?style=flat&labelColor=545454&color=ff69b4)](https://github.com/nnyyxxxx.gpg)
 
 <br clear="all">
 
@@ -28,7 +28,7 @@ I'm **nnyyxxxx**, a programmer with love for Rust and Zig! 🦀
 
 ### 🌸 Current Focus
 
-- Making TUIs
+- Writing fast & efficient software in low level languages
 - Learning more ASM
 - Contributing to open source projects
 
